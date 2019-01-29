@@ -4,14 +4,12 @@ The annual [conference on the use of R in official statistics](http://urosconf.o
 ## Motivation
 The idea behind the event (similar to http://unconf17.ropensci.org/ for R in general) to bring together useRs from the area of official statistics to work for two days on concrete projects where enhancements would benefit many institutes, organisation,... .
 
-
 Similar to the idea of the [awesome official statistics software](http://www.awesomeofficialstatistics.org) list, this should complement an abstract top-down approach such as the [common statistical production architecture](https://statswiki.unece.org/display/CSPA/CSPA+v1.5) with fast bottom-up solutions.
 
-## Presentation
+## Call for ideas
+Everyone interested in joining or with a concret idea to implement, please write us.
 
-The results of unconfUROS2018 are shown here:will be presented during the ensuing uRos2018 conference.
-
-## Implemented ideas
+## Implemented ideas 2018
 
 - [A shiny app for data validation and rule management](https://github.com/uRosConf/unconfUROS2018/tree/master/doc/data_validation.md)
    - [unconfUROS result](https://github.com/uRos2018/validaty)
@@ -26,3 +24,5 @@ The results of unconfUROS2018 are shown here:will be presented during the ensuin
 
  - [Machine learning techniques for imputation (boosting, deep learning, ....)](https://github.com/uRosConf/unconfUROS2018/tree/master/doc/MLimputation.md)
  - Sampling package that covers the need of NSIs
+ 
+ 
