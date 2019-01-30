@@ -6,8 +6,11 @@ The idea behind the event (similar to http://unconf17.ropensci.org/ for R in gen
 
 Similar to the idea of the [awesome official statistics software](http://www.awesomeofficialstatistics.org) list, this should complement an abstract top-down approach such as the [common statistical production architecture](https://statswiki.unece.org/display/CSPA/CSPA+v1.5) with fast bottom-up solutions.
 
+## Participation
+If you are interested in participating, please contact us by email to [contact@r-project.ro](mailto:contact@r-project.ro) with a short summary of your motivation and your experience in R.
+
 ## Call for ideas
-Everyone interested in joining or with a concret idea to implement, please write us.
+Everyone interested in joining or with a concret idea to implement, please write [us](mailto:contact@r-project.ro). To give a hint what kind of proposals we are aiming for, please see the implemented projects from the [unconfUROS2018](https://github.com/uRosConf/unconfUROS2018).
 
 ## Implemented ideas 2018
 
@@ -20,7 +23,7 @@ Everyone interested in joining or with a concret idea to implement, please write
  - A wrapper for the Dutch (reverse) geocoding service [Locatieserver hosted by PDOK](https://github.com/uRosConf/unconfUROS2018/tree/master/doc/locatieserver.md)
    - [unconfUROS result](https://github.com/uRos2018/nlgeocoder)
 
-## Other open ideas
+## Open ideas
 
  - [Machine learning techniques for imputation (boosting, deep learning, ....)](https://github.com/uRosConf/unconfUROS2018/tree/master/doc/MLimputation.md)
  - Sampling package that covers the need of NSIs
