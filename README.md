@@ -10,7 +10,7 @@ Similar to the idea of the [awesome official statistics software](http://www.awe
 If you are interested in participating, please contact us by email to [contact@r-project.ro](mailto:contact@r-project.ro) with a short summary of your motivation and your experience in R.
 
 ## Call for ideas
-Everyone interested in joining or with a concret idea to implement, please write [us](mailto:contact@r-project.ro). To give a hint what kind of proposals we are aiming for, please see the implemented projects from the [unconfUROS2018](https://github.com/uRosConf/unconfUROS2018).
+Everyone interested in joining or with a concret idea to implement, please write [us](mailto:contact@r-project.ro) or even better clone this repo, add a small markdown file describing your idea to the doc folder in this repo and send a pull request to us. To give a hint what kind of proposals we are aiming for, please see the implemented projects from the [unconfUROS2018](https://github.com/uRosConf/unconfUROS2018).
 
 ## Implemented ideas 2018
 
