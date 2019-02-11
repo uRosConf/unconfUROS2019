@@ -1,3 +1,5 @@
+<img src="uRosConf2019.png" alt="uRos conference logo" width="200"/>
+
 # unconfUROS
 The annual [conference on the use of R in official statistics](http://urosconf.org) will take place on the premises of the national statistical institute of Romania May 20-21. We are excited to announce an unconference use of R in official statistics on the day after the uRos conference, so on 22nd of May.
 
