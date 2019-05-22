@@ -27,7 +27,8 @@ Everyone interested in joining or with a concret idea to implement, please write
 
 ## Open ideas
 
- - [Machine learning techniques for imputation (boosting, deep learning, ....)](https://github.com/uRosConf/unconfUROS2018/tree/master/doc/MLimputation.md)
- - Sampling package that covers the need of NSIs
+ - [Machine learning techniques for imputation (boosting, deep learning, ....)](https://github.com/uRosConf/unconfUROS2019/tree/master/doc/MLimputation.md)
+ - [Sampling package that covers the need of NSIs](https://github.com/uRosConf/unconfUROS2019/tree/master/doc/sampling.md)
+ - [Improve data Validation shiny interface with imputation](https://github.com/uRosConf/unconfUROS2019/tree/master/doc/data_validation.md)
  
  
