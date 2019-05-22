@@ -17,7 +17,7 @@ There a number of different R packages for imputation, e.g. [VIM](https://CRAN.R
 
 ## Would you like to participate?
 
-Please contact us via `uRos2018 at cbs dot nl`, with the subject `unconf`.
+Please contact us via `anamaria.dobre@insse.ro`, with the subject `unconf`.
 
 ----
 [[back to main page](../README.md)]

@@ -33,7 +33,7 @@ Data validation in the ESS:
 
 ## Would you like to participate?
 
-Please contact us via `uRos2018 at cbs dot nl`, with the subject `unconf`.
+Please contact us via `anamaria.dobre@insse.ro`, with the subject `unconf`.
 
 ----
 [[back to main page](../README.md)]
